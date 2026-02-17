@@ -169,7 +169,3 @@ The `--common` flag scans these frequently used ports:
 - [ ] IPv6 support
 - [ ] Scanning multiple targets from a file
 - [ ] Integration with vulnerability databases
-
----
-
-**⚡ Remember**: With great power comes great responsibility. Happy (ethical) hacking!
