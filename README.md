@@ -34,7 +34,7 @@ A lightweight, multi-threaded port scanner written in Python for security resear
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/simple-port-scanner.git
+git clone https://github.com/Twinson333/simple-port-scanner.git
 cd simple-port-scanner
 
 # Make the script executable (optional)
